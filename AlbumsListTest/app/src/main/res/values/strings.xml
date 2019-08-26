@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AlbumsList Java</string>
+    <string name="sync_message">Liste vide</string>
+</resources>
